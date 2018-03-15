@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignIn</string>
+    <string name="not_log_in">No se pudo iniciar sesión</string>
+    <string name="log_out">Log out</string>
+    <string name="revoke">Revoke</string>
+    <string name="not_close_session">No se pudo cerrar sesion</string>
+    <string name="not_logout_session">No pudo cerrar sesion</string>
+    <string name="not_revoke_session">No pudo revocar sesion</string>
+</resources>
